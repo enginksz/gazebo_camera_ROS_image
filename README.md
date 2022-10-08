@@ -1,4 +1,4 @@
-# Gazebo_Camera_ROS_image
+# Gazebo_camera_ROS_image
 gazebo camera ROS image (typhoon_h480 drone)
 
 
